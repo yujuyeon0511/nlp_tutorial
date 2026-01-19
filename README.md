@@ -8,6 +8,11 @@
 
 ![SentimentRNN Architecture](Gemini_Generated_Image_6z89ms6z89ms6z89.png)
 
+## 학습 데이터 예시
+![학습 데이터 예시](movie_reveiw.png)
+
+movie_reveiw.png
+
 ### 🔍 단계별 데이터 흐름
 
 1. 입력 문장 (Input Sentence):
