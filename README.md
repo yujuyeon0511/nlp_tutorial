@@ -8,6 +8,10 @@
 
 ![SentimentRNN Architecture](Gemini_Generated_Image_6z89ms6z89ms6z89.png)
 
+## 모델 학습이란?
+예시: $y = ax + b$ ($a$와 $b$는 parameters)  
+처음에는 랜덤이었던 이 $a$와 $b$ 값을 공부를 통해 정답에 가까운 숫자로 바꿔나가는 과정입니다.
+
 ## 학습 데이터 예시
 ![학습 데이터 예시](movie_reveiw.png)
 
