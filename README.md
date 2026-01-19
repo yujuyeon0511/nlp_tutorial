@@ -32,8 +32,9 @@
 
 모델이 반복 학습(Epoch)을 통해 얼마나 똑똑해졌는지 보여주는 손실(Loss) 그래프입니다.
 
-![Movie Review Sentiment Analysis - Loss Curve](loss.png)
-[Movie Review Sentiment Analysis]
+![Movie Review Sentiment Analysis - Loss Curve](loss.png)  
+
+[Movie Review Sentiment Analysis]  
 *학습이 진행될수록 오차(Loss)가 줄어들며 모델의 판단 정확도가 높아지는 것을 확인할 수 있습니다.*
 
 ## 📌 핵심 포인트 (Learning Points)
