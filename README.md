@@ -7,7 +7,6 @@
 이 모델은 여러 단어로 이루어진 문장을 읽고 하나의 감정 결과(0~1 사이의 확률)를 내놓는 Many-to-One 구조를 가집니다.
 
 ![SentimentRNN Architecture](Gemini_Generated_Image_6z89ms6z89ms6z89.png)
-*이미지: 생성된 모델 아키텍처 다이어그램을 'architecture.png'로 저장해 넣어주세요.*
 
 ### 🔍 단계별 데이터 흐름
 
